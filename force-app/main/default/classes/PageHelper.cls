@@ -1,5 +1,4 @@
 public class PageHelper {
-
         public String CodeProduct;
         public String Prefix;
         public String chaine;

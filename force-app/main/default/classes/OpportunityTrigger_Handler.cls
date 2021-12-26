@@ -4,5 +4,4 @@ public class OpportunityTrigger_Handler {
              List<Opportunity> Oppo = new List<Opportunity>();  
              Oppo=AssetCreator.GetOpportunitiesClosedWon(OppyIds);
              AssetCreator.SetAssetFromOppo(Oppo);
-
     }}
